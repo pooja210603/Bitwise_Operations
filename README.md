@@ -1,5 +1,8 @@
 # Bitwise Operators in C
 The bitwise operators are the operators used to perform the operations on the data at the bit-level.
+<br> <br>
+
+
 
 | Operator      | Meaning                     |
 | ------------- |:-------------:              |
@@ -8,6 +11,8 @@ The bitwise operators are the operators used to perform the operations on the da
 | ^             |Bitwise exclusive OR operator|
 | <<            |Left shift operator          |
 | >>            |Right shift operator         |
+
+![image](https://user-images.githubusercontent.com/125560933/227697906-2166c975-90f5-4697-974a-a7879c76914e.png)
 
     Example:
     We have two variables a and b. 
