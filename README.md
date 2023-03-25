@@ -35,4 +35,11 @@ It is an operator that shifts the number of bits to the left-side.
     a << 2;  
     0101<<2 = 00010100 
 
+## To check if the number is even or odd using BITWISE Operator:
+
+        ALGORITHM:
+        1. Input a number from user.
+        2. Check if (num & 1)
+        3. If true , the number is odd.
+        4. Else , Even.
 
