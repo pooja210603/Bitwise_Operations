@@ -1,8 +1,7 @@
 # Bitwise Operators in C
 The bitwise operators are the operators used to perform the operations on the data at the bit-level.
-<br> <br>
-
-
+<br> 
+![image](https://github.com/pooja210603/Bitwise_Operations/blob/main/Bitwise_Operators.png)
 
 | Operator      | Meaning                     |
 | ------------- |:-------------:              |
