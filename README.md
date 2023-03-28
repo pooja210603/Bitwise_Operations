@@ -47,3 +47,7 @@ It is an operator that shifts the number of bits to the left-side.
         3. If true , the number is odd.
         4. Else , Even.
 
+## Output :
+
+![image](https://user-images.githubusercontent.com/125560933/228201955-623dcda9-8eef-416d-b03c-576e718d49ca.png)
+
